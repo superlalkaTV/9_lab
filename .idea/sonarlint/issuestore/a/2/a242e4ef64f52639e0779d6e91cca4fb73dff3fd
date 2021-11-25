@@ -1,0 +1,18 @@
+
+N
+java:S1854"9Remove this useless assignment to local variable "input".(“åÈL
+@
+java:S1481"*Remove this unused "input" local variable.(­¶³
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ª§³ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ş¿Ñá
+6	java:S131""Add a default case to this switch.(“åÈL
+N	java:S106"9Replace this use of System.out or System.err by a logger.(·¶÷Ğ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(«ë¢«øÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(šµ×P
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ÷Á
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ä¸–ÿÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(«ë¢«øÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ä¸–ÿÿÿÿÿ
+C
+java:S1121".Extract the assignment out of this expression.(“åÈL
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºĞèô
